@@ -1,7 +1,7 @@
 language: generic
 deploy:
   provider: releases
-  api_key: 
+  api_key: ${TRAVIS_GITHUB_KEY}
   file: test
   skip_cleanup: true
   on:
