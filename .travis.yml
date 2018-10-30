@@ -1,0 +1,9 @@
+language: generic
+deploy:
+  provider: releases
+  api_key: 
+  file: test
+  skip_cleanup: true
+  on:
+    tags: true
+
