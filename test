@@ -3,3 +3,5 @@ This is a test file. It serves no other purpose than to just get sent to a tagge
 But what if I don't want a tagged commit be a release? That's the question.
 
 Trying to only publish on release, we'll see how that goes
+
+And now we'll only tag a commit, not prompting a release
