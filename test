@@ -1,3 +1,5 @@
 This is a test file. It serves no other purpose than to just get sent to a tagged release.
 
 But what if I don't want a tagged commit be a release? That's the question.
+
+Trying to only publish on release, we'll see how that goes
