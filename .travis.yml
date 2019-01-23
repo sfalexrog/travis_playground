@@ -7,4 +7,5 @@ deploy:
   on:
     tags: true
   prerelease: true
+  draft: true
 
